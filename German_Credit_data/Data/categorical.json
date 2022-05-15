@@ -1,1 +1,85 @@
-
+{
+	"Status Checking":{
+		"A11":"less than 0 DM",
+		"A12":"0 less than or equal and less than 200 DM",
+		"A13":"bigger than 200DM / salary assignments for at least 1 year",
+		"A14":"no checking account"
+	},
+	"Credit History":{
+		"A30":"no credits tanken/all credits paid back duly",
+		"A31":"all credits at this band paid back duly",
+		"A32":"existing credits paind back duly till now",
+		"A33":"delay in paying off in the past",
+		"A34":"critical account / other credits existing (not at this bank)"
+	},
+	"Purpose":{
+		"A40":"car (new)",
+		"A41":"car (used)",
+		"A42":"furniture/equipment",
+		"A43":"radio/television",
+		"A44":"domestic appliances",
+		"A45":"reparis",
+		"A46":"education",
+		"A47":"(vaction - does not exist?)",
+		"A48":"retraining",
+		"A49":"business",
+		"A410":"others"
+	},
+	"Savings Account":{
+		"A61": "less than 100DM",
+		"A62":"100 less than or equal and < 500DM",
+		"A63":"500 less than or equal and 1000 DM",
+		"A64":"bigger than or equal 1000 DM",
+		"A65": "unknown / no savings account"
+	},
+	"Employement since":{
+		"A71":"unemployed",
+		"A72":"less than 1 year",
+		"A73":"1 less than or equal and less than 4 years",
+		"A74":"4 less than and equal and less than 7 years",
+		"A75":"bigger than or equal 7 years"
+	},
+	"StatusSex":{
+		"A91":"male : divorced/separated",
+		"A92":"female : divorced/separated/married",
+		"A93":"male : single",
+		"A94":"male : married/windowed",
+		"A95":"female : single"
+	},
+	"Otherdebtos":{
+		"A101": "None",
+		"A102":"co-applicant",
+		"A103":"guarantor"
+	},
+	"Property":{
+		"A121":"real estate",
+		"A122":"if not real estate : building society savings agreement/life insurance",
+		"A123":"if not others options : car or other, not in savings accounts/bonds",
+		"A124":"unknown/no property"
+	},
+	"Otherinstallment Plans":{
+		"A141":"bank",
+		"A142":"stores",
+		"A143":"None"
+	},
+	"Housing":{
+		"A151":"rent",
+		"A152":"own",
+		"A153":"for free"
+	},
+	"Job":{
+		"A171":"unemployed/unskilled-non-resident",
+		"A172":"unskilled-resident",
+		"A173":"skilled employee /official",
+		"A174":"management/self-employed/highly qualified employee/officer"
+	},
+	"Telephone":{
+		"A191":"None",
+		"A192": "yes, registered under the customers name"
+	},
+	"Foreign Worker":{
+		"A201":"yes",
+		"A202":"no"
+	}
+	
+}
